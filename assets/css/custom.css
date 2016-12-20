@@ -1,0 +1,45 @@
+.subHeading {
+	color: #aaa;
+	font-weight: bold;
+	font-size: 1.4em;
+	margin-bottom: 0.75em;
+	margin-top: 2em;
+}
+
+/*Icons*/
+.ai {
+	font-size: 1.2em;
+}
+
+
+/*Journal articles*/
+.imgpub {
+	height: auto;
+	width: auto;
+	max-height: 7em; 
+	max-width: 5em; 
+}
+
+.features article .image {
+	width: 16%;
+}
+
+.features article .inner {
+	width: 82%;
+}
+
+/*Oral communications*/
+.imgoral {
+	height: auto;
+	width: auto;
+	max-height: 7em; 
+	max-width: 10em; 
+}
+
+.features article .imageconfer {
+	width: 26%;
+}
+
+.features article .innerconfer {
+	width: 72%;
+}
